@@ -296,7 +296,7 @@ background-color: #104cc0;
 }
 
 .specially {
-    background: url(./image/specially\ image) no-repeat;
+    background: url(../images/speciall-image.jpg) no-repeat;
     background-size: cover;
     width: 100%;
 }
@@ -1141,9 +1141,7 @@ flex-wrap: wrap;
 .round-2 img{
     width: 20px;
 }
-.white{
-    padding: 5px;
-}
+
 .round-2 .white{
     display: none;
 }
@@ -1646,21 +1644,32 @@ element.style {
     flex-wrap: wrap;
    
 }
-.contact-text ul li {
-    padding: 0px 0px 0px;
+.contact-text ul  {
+    padding: 0px 0px;
+    flex-direction: column;
+    
   
     
 }
 
-.contact-text ul {
-    flex-wrap: wrap;
-    
-    
-    
+.contact-text li a{
+    padding: 10px 0px;
 }
+
+
 .croup{
     padding: 70px 0px 0px;
 }
-
+.welma{
+    flex-direction: column;
+    align-items: flex-start;
+}
+.welma ul{
+    flex-direction: column;
+    padding: 30px 0px;
+}
+.welma ul li {
+padding: 20px 0px;
+}
 
 }
