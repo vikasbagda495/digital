@@ -1341,6 +1341,9 @@ margin:  20px 10px 0px;
 .welma ul li:last-child{
     padding: 0px 0px;
 }
+
+
+
 @media screen and (max-width:767px) {
     .container {
         width: 100%;
