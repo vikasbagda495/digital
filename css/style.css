@@ -107,6 +107,7 @@ width:100%;
     padding:20px;
     font-size: 18px;
     color: #fff;
+    padding-bottom: 50px;
 }
 .hamburger-image{
     display: none;
@@ -152,6 +153,8 @@ display: none;
 .menu ul li ul li a{
     color: #000000;
 }
+
+
 .menu-all {
     display: flex;
     justify-content: space-between;
