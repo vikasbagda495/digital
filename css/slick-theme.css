@@ -219,6 +219,7 @@ border-radius: 10px;
 }
 
  .prev-arrow{
+    cursor: pointer;
     position: absolute;
     left: 20px;
     top: 50%;
@@ -244,6 +245,7 @@ border-radius: 10px;
     background-color: #004623;
 }
 .next-arrow{
+    cursor: pointer;
     position: absolute;
     right: 20px;
     top: 50%;
